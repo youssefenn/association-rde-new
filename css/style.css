@@ -4790,6 +4790,7 @@ input[type="button"].btn-block {
 
 .navbar-dark .navbar-brand {
     color: #fff;
+    display: none;
 }
 
 .navbar-dark .navbar-brand:hover,
@@ -9937,6 +9938,7 @@ h5,
 
 .ftco-navbar-light.scrolled .navbar-brand {
     color: #000;
+    display: unset;
 }
 
 .navbar-brand {
@@ -11694,4 +11696,8 @@ section.ftco-section-2 {
 
 h2.h5.ftco-subheading.mb-5.aos-init.aos-animate {
     font-size: 26px;
+}
+
+span.rde {
+    font-size: 27px;
 }
