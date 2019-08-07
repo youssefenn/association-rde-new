@@ -11701,3 +11701,46 @@ h2.h5.ftco-subheading.mb-5.aos-init.aos-animate {
 span.rde {
     font-size: 27px;
 }
+
+.col.image4 {
+    margin-top: 15px;
+}
+
+.col.image6 {
+    margin-top: 15px;
+}
+
+.gtco-features-list {
+    margin-top: 100px;
+}
+
+.gtco-features-list .media {
+    margin: 20px 0;
+}
+
+.gtco-features-list .oval {
+    border-radius: 50%;
+    background-color: white;
+    box-shadow: 0 10px 50px 0 rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    height: 60px;
+    width: 60px;
+}
+
+.gtco-features-list .oval .align-self-start {
+    width: 100%;
+    padding: 3px;
+}
+
+.gtco-features-list .media-body {
+    font-family: "OpenSans-Regular";
+    font-size: 16px;
+    color: #666666;
+    padding-right: 20px;
+}
+
+.gtco-features-list .media-body h5 {
+    font-family: "Lato-Semibold";
+    margin-bottom: 20px !important;
+    font-size: 22px;
+}
